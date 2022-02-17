@@ -1,11 +1,12 @@
 body {
-  background-image: url("./images/Marble.jpg");
+  background-image: url("./images/marble.jpg");
 }
 
 h1 {
     font-family: 'Cookie', cursive;
     font-size: 80px !important;
     font-weight: bold;
+    text-shadow: 1px 1px 1px red, 2px 2px 1px red;
     color:#FCD358;
     margin-top: 15px !important;   
 }
@@ -27,6 +28,7 @@ button{
   color:#ff00ff ;
   font-size: 45px;
   font-weight: bold;
+  text-shadow: #FC0 1px 0 50px;
   position: absolute;
   top: 55%;
   left: 50%;
