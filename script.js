@@ -1,5 +1,5 @@
 
-const affirmationsArray = ['You\'re hella worthy.', 'Share your light with someone new today', 'You are in your own lane. Don\'t compare yourself to others', 'I\'m so proud of you', 'Your skin is glistening.', 'Your ability to conquer challenges is limitless.', 'Overcome your fears and follow your dreams.', 'Feed your spirit. Train your body. Focus your mind. It\'s your time.', 'You will learn Javascript!', 'No one belongs here more than you.']
+const affirmationsArray = ['You\'re hella worthy.', 'Share your light with <br> someone new today', 'You are in your own lane. <br> Don\'t compare yourself to others', 'I\'m so proud of you', 'Your skin is glistening.', 'Your ability to conquer <br> challenges is limitless.', 'Overcome your fears and <br> follow your dreams.', 'Feed your spirit. <br> Train your body. <br> Focus your mind. <br> It\'s your time.', 'You will learn Javascript!', 'No one belongs here <br> more than you.']
 
 const myAffirmations = document.getElementById('affirmations');  
      myAffirmations.innerHTML = `
