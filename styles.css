@@ -4,8 +4,25 @@ body {
 
 h1 {
     font-family: 'Cookie', cursive;
-    font-size: 100px;
+    font-size: 80px !important;
     font-weight: bold;
     color:#FCD358;
-    margin-top: 20px;   
+    margin-top: 50px !important;   
+    margin-bottom: 10px;
+}
+
+.bi {
+  font-size: 50px;
+  color: purple;
+}
+
+button{
+  background-color: Transparent;  
+  background-repeat:no-repeat;
+  border: none;
+  cursor:pointer;
+}
+
+.textBox{
+  margin-bottom: 500px !important;
 }
