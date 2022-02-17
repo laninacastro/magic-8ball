@@ -1,0 +1,11 @@
+body {
+    background-image: url('./images/pexels-anni-roenkae-2860807.jpg')
+  }
+
+h1 {
+    font-family: 'Cookie', cursive;
+    font-size: 100px;
+    font-weight: bold;
+    color:#FCD358;
+    margin-top: 20px;   
+}
